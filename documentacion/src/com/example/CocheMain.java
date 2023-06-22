@@ -4,9 +4,9 @@ public class CocheMain {
     public static void main(String[] args) {
 
         String coche = "alfa rimeo";
-        Coche cocheObj = new Coche();
+        Coche cocheObj = new CocheHibrido();
 
-        Coche cocheObj2 = new Coche("rojo", "Mazda", "Mazda 6",1430.0,5.0);
+        Coche cocheObj2 = new CocheElectrico("rojo", "Mazda", "Mazda 6",1430.0,5.0,"motor_electrico");
         cocheObj2.acelerar(50);
 
         cocheObj2.peso = 1350.8;

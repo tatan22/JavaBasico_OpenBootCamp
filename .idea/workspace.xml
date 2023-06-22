@@ -5,39 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff0c5e3d-b621-4e64-a4a0-45f90a025395" name="Changes" comment="Primer commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/01_JavaBasico_OpenBootCamp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/documentacion.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/company/Funciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/company/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/company/Operadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/company/Tipos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/company/forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/company/ifElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/company/switchCash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/company/whileLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/example/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/example/CocheElectrico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/example/CocheHibrido.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/example/CocheMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/example/PoliformismoMail.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/documentacion/src/com/prueba/PruebaFunciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-ob/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-ob/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-ob/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-ob/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-ob/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-ob/hello-ob.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-ob/src/com/company/ByeWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hello-ob/src/com/company/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +26,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Tatan/Documents/DEV/Developer/OpenBoocamp/05 JAVA/01_JavaBasico_OpenBootCamp"
+    "last_opened_file_path": "C:/Users/Tatan/Documents/Developer/OpenBoocamp/05 JAVA/JavaBasico_OpenBootCamp"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
