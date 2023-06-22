@@ -2,7 +2,7 @@ package com.example;
 
 public class PoliformismoMail {
     public static void main(String[] args) {
-        Coche coche1 = new Coche();
+        Coche coche1 = new CocheElectrico();
         CocheElectrico coche2 = new CocheElectrico();
         CocheHibrido coche3 = new CocheHibrido();
 

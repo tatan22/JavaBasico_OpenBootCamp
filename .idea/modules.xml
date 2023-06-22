@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/01_JavaBasico_OpenBootCamp.iml" filepath="$PROJECT_DIR$/.idea/01_JavaBasico_OpenBootCamp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Metodo_de_clase_String/Metodo_de_clase_String.iml" filepath="$PROJECT_DIR$/Metodo_de_clase_String/Metodo_de_clase_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/documentacion/documentacion.iml" filepath="$PROJECT_DIR$/documentacion/documentacion.iml" />
       <module fileurl="file://$PROJECT_DIR$/hello-ob/hello-ob.iml" filepath="$PROJECT_DIR$/hello-ob/hello-ob.iml" />
     </modules>
